@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>InVEST</id>
+    <title>InVEST</title>
+    <version>2.5.6</version>
+    <authors>The Natural Capital Project</authors>
+    <owners>James Douglass</owners>
+    <summary>This is an example App</summary>
+    <description>Your descriptions here</description>
+    <projectUrl>http://naturalcapitalproject.org</projectUrl>
+    <tags>some tags here</tags>
+    <licenseUrl>http://www.myapp.tld/license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance> <!-- or true if you require the user to accept the License before installing -->
+  </metadata>
+</package>
